@@ -3,13 +3,5 @@ pandas==2.3.3
 plotly==6.5.2
 numpy==2.4.2
 altair==6.0.0
-# Core data handling
-joblib==1.5.3
-# Scraping dependencies (if needed later)
-google-play-scraper==1.2.7
-app-store-scraper==0.3.5
-beautifulsoup4==4.14.3
-httpx==0.28.1
-# NLP (if scrapers are run)
-nltk==3.9.2
-scikit-learn==1.8.0
+# Transitive dependencies for stability
+requests>=2.27,<3
