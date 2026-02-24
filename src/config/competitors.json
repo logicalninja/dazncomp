@@ -1,0 +1,26 @@
+{
+  "competitors": [
+    "DAZN",
+    "Sky Sports",
+    "BT Sport",
+    "ESPN",
+    "Eurosport",
+    "TNT Sports",
+    "FuboTV"
+  ],
+  "platforms": {
+    "lightweight": [
+      "Google Play Store",
+      "Trustpilot"
+    ],
+    "stealth": [
+      "Apple App Store",
+      "Facebook",
+      "Instagram",
+      "Twitter",
+      "TikTok",
+      "YouTube",
+      "LinkedIn"
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+timestamp,competitor,platform,metric_type,value
+2026-02-24T06:21:21.045631,DAZN,Trustpilot,star_rating,0.0
+2026-02-24T06:21:21.047848,DAZN,Trustpilot,review_count,36583.0
+2026-02-24T06:21:24.424042,Sky Sports,Trustpilot,star_rating,0.0
+2026-02-24T06:21:24.426033,Sky Sports,Trustpilot,review_count,1588.0
+2026-02-24T06:21:27.574442,BT Sport,Trustpilot,star_rating,0.0
+2026-02-24T06:21:27.575675,BT Sport,Trustpilot,review_count,41.0
+2026-02-24T06:21:31.045921,ESPN,Trustpilot,star_rating,0.0
+2026-02-24T06:21:31.048066,ESPN,Trustpilot,review_count,1184.0
+2026-02-24T06:21:34.795492,Amazon Prime Video,Trustpilot,star_rating,0.0
+2026-02-24T06:21:34.797513,Amazon Prime Video,Trustpilot,review_count,2707.0
+2026-02-24T06:21:37.545066,Discovery+,Trustpilot,star_rating,0.0
+2026-02-24T06:21:37.546558,Discovery+,Trustpilot,review_count,35.0
+2026-02-24T06:21:41.303580,Eurosport,Trustpilot,star_rating,0.0
+2026-02-24T06:21:41.308522,Eurosport,Trustpilot,review_count,775.0
+2026-02-24T06:21:45.455379,TNT Sports,Trustpilot,star_rating,0.0
+2026-02-24T06:21:45.460539,TNT Sports,Trustpilot,review_count,650.0
+2026-02-24T06:21:48.816763,NOW,Trustpilot,star_rating,0.0
+2026-02-24T06:21:48.822340,NOW,Trustpilot,review_count,14682.0
+2026-02-24T06:21:52.099679,Paramount+,Trustpilot,star_rating,0.0
+2026-02-24T06:21:52.101009,Paramount+,Trustpilot,review_count,3311.0
+2026-02-24T06:21:54.943905,Peacock,Trustpilot,star_rating,0.0
+2026-02-24T06:21:54.946811,Peacock,Trustpilot,review_count,8.0
+2026-02-24T06:21:58.770083,FuboTV,Trustpilot,star_rating,0.0
+2026-02-24T06:21:58.775087,FuboTV,Trustpilot,review_count,8457.0
+2026-02-24T06:22:02.203544,Sling TV,Trustpilot,star_rating,0.0
+2026-02-24T06:22:02.204684,Sling TV,Trustpilot,review_count,24.0
+2026-02-24T06:22:05.018802,YouTube TV,Trustpilot,star_rating,0.0
+2026-02-24T06:22:05.019929,YouTube TV,Trustpilot,review_count,71.0
+2026-02-24T06:22:08.584909,Hulu + Live TV,Trustpilot,star_rating,0.0
+2026-02-24T06:22:08.588496,Hulu + Live TV,Trustpilot,review_count,3111.0
+2026-02-24T06:22:13.079615,DirecTV Stream,Trustpilot,star_rating,0.0
+2026-02-24T06:22:13.080796,DirecTV Stream,Trustpilot,review_count,3033.0
+2026-02-24T06:22:27.477351,DAZN,Twitter,follower_count,0.0
+2026-02-24T06:22:38.464761,Sky Sports,Twitter,follower_count,7200000.0
+2026-02-24T06:22:49.408241,BT Sport,Twitter,follower_count,194.0
+2026-02-24T06:23:00.154824,ESPN,Twitter,follower_count,57400000.0
+2026-02-24T06:23:10.798026,Amazon Prime Video,Twitter,follower_count,0.0
+2026-02-24T06:23:21.288746,Discovery+,Twitter,follower_count,0.0
+2026-02-24T06:23:31.960367,Eurosport,Twitter,follower_count,0.0
+2026-02-24T06:23:42.585623,TNT Sports,Twitter,follower_count,1100000.0
+2026-02-24T06:23:53.092864,NOW,Twitter,follower_count,89300.0
+2026-02-24T06:24:03.644711,Paramount+,Twitter,follower_count,0.0
+2026-02-24T06:24:14.169747,Peacock,Twitter,follower_count,505600.0
+2026-02-24T06:24:24.871507,FuboTV,Twitter,follower_count,33600.0
+2026-02-24T06:24:35.420472,Sling TV,Twitter,follower_count,118.0
+2026-02-24T06:24:46.182783,YouTube TV,Twitter,follower_count,362900.0
+2026-02-24T06:24:56.661949,Hulu + Live TV,Twitter,follower_count,0.0
+2026-02-24T06:25:07.210365,DirecTV Stream,Twitter,follower_count,32.0
+2026-02-24T06:39:31.124879,DAZN,Trustpilot,star_rating,0.0
+2026-02-24T06:39:31.128244,DAZN,Trustpilot,review_count,36583.0
+2026-02-24T06:39:34.003563,DAZN,Google Play Store,star_rating,4.548672676086426
+2026-02-24T06:39:34.013013,DAZN,Google Play Store,review_count,601748.0
+2026-02-24T06:39:36.815898,Sky Sports,Trustpilot,star_rating,0.0
+2026-02-24T06:39:36.818309,Sky Sports,Trustpilot,review_count,1588.0
+2026-02-24T06:39:39.645695,Sky Sports,Google Play Store,star_rating,4.550000190734863
+2026-02-24T06:39:39.649540,Sky Sports,Google Play Store,review_count,88870.0
+2026-02-24T06:39:42.259598,BT Sport,Trustpilot,star_rating,0.0
+2026-02-24T06:39:42.261106,BT Sport,Trustpilot,review_count,41.0
+2026-02-24T06:39:45.374188,BT Sport,Google Play Store,star_rating,3.7142856121063232
+2026-02-24T06:39:45.382367,BT Sport,Google Play Store,review_count,25431.0
+2026-02-24T06:39:47.596761,ESPN,Trustpilot,star_rating,0.0
+2026-02-24T06:39:47.598052,ESPN,Trustpilot,review_count,1184.0
+2026-02-24T06:39:50.387346,ESPN,Google Play Store,star_rating,4.050000190734863
+2026-02-24T06:39:50.389731,ESPN,Google Play Store,review_count,1180167.0
+2026-02-24T06:39:52.609436,Amazon Prime Video,Trustpilot,star_rating,0.0
+2026-02-24T06:39:52.610719,Amazon Prime Video,Trustpilot,review_count,2707.0
+2026-02-24T06:39:55.455938,Amazon Prime Video,Google Play Store,star_rating,4.1612629890441895
+2026-02-24T06:39:55.465925,Amazon Prime Video,Google Play Store,review_count,5017373.0
+2026-02-24T06:39:57.611922,Discovery+,Trustpilot,star_rating,0.0
+2026-02-24T06:39:57.613499,Discovery+,Trustpilot,review_count,35.0
+2026-02-24T06:40:00.340509,Discovery+,Google Play Store,star_rating,3.409090995788574
+2026-02-24T06:40:00.347735,Discovery+,Google Play Store,review_count,41292.0
+2026-02-24T06:40:02.465574,Eurosport,Trustpilot,star_rating,0.0
+2026-02-24T06:40:02.467182,Eurosport,Trustpilot,review_count,775.0
+2026-02-24T06:40:05.420741,Eurosport,Google Play Store,star_rating,4.550000190734863
+2026-02-24T06:40:05.424273,Eurosport,Google Play Store,review_count,299042.0
+2026-02-24T06:40:07.652224,TNT Sports,Trustpilot,star_rating,0.0
+2026-02-24T06:40:07.653490,TNT Sports,Trustpilot,review_count,650.0
+2026-02-24T06:40:10.410063,TNT Sports,Google Play Store,star_rating,3.7142856121063232
+2026-02-24T06:40:10.413975,TNT Sports,Google Play Store,review_count,25431.0
+2026-02-24T06:40:12.569372,NOW,Trustpilot,star_rating,0.0
+2026-02-24T06:40:12.570877,NOW,Trustpilot,review_count,14682.0
+2026-02-24T06:40:15.455638,NOW,Google Play Store,star_rating,4.736916542053223
+2026-02-24T06:40:15.457536,NOW,Google Play Store,review_count,1831794.0
+2026-02-24T06:40:17.636645,Paramount+,Trustpilot,star_rating,0.0
+2026-02-24T06:40:17.698145,Paramount+,Trustpilot,review_count,3311.0
+2026-02-24T06:40:20.479431,Paramount+,Google Play Store,star_rating,0.0
+2026-02-24T06:40:20.481787,Paramount+,Google Play Store,review_count,0.0
+2026-02-24T06:40:25.492864,Peacock,Trustpilot,star_rating,0.0
+2026-02-24T06:40:25.511829,Peacock,Trustpilot,review_count,8.0
+2026-02-24T06:40:28.450759,Peacock,Google Play Store,star_rating,4.390046119689941
+2026-02-24T06:40:28.454408,Peacock,Google Play Store,review_count,68295033.0
+2026-02-24T06:40:30.646211,FuboTV,Trustpilot,star_rating,0.0
+2026-02-24T06:40:30.647935,FuboTV,Trustpilot,review_count,8457.0
+2026-02-24T06:40:33.600467,FuboTV,Google Play Store,star_rating,4.548672676086426
+2026-02-24T06:40:33.602081,FuboTV,Google Play Store,review_count,601748.0
+2026-02-24T06:40:35.760298,Sling TV,Trustpilot,star_rating,0.0
+2026-02-24T06:40:35.761812,Sling TV,Trustpilot,review_count,24.0
+2026-02-24T06:40:38.561079,Sling TV,Google Play Store,star_rating,4.1612629890441895
+2026-02-24T06:40:38.562780,Sling TV,Google Play Store,review_count,5017373.0
+2026-02-24T06:40:41.405567,YouTube TV,Trustpilot,star_rating,0.0
+2026-02-24T06:40:41.407177,YouTube TV,Trustpilot,review_count,71.0
+2026-02-24T06:40:44.339598,YouTube TV,Google Play Store,star_rating,3.613861322402954
+2026-02-24T06:40:44.342325,YouTube TV,Google Play Store,review_count,154202.0
+2026-02-24T06:40:46.602126,Hulu + Live TV,Trustpilot,star_rating,0.0
+2026-02-24T06:40:46.604299,Hulu + Live TV,Trustpilot,review_count,3111.0
+2026-02-24T06:40:49.321781,Hulu + Live TV,Google Play Store,star_rating,3.380000114440918
+2026-02-24T06:40:49.323721,Hulu + Live TV,Google Play Store,review_count,472866.0
+2026-02-24T06:40:51.493225,DirecTV Stream,Trustpilot,star_rating,0.0
+2026-02-24T06:40:51.494493,DirecTV Stream,Trustpilot,review_count,3033.0
+2026-02-24T06:40:54.279855,DirecTV Stream,Google Play Store,star_rating,4.690000057220459
+2026-02-24T06:40:54.282767,DirecTV Stream,Google Play Store,review_count,23863871.0
+2026-02-24T06:41:07.119448,DAZN,Twitter,follower_count,0.0
+2026-02-24T06:41:14.456805,DAZN,Instagram,follower_count,0.0
+2026-02-24T06:41:20.124996,DAZN,TikTok,follower_count,73300.0
+2026-02-24T06:41:26.855821,DAZN,YouTube,follower_count,0.0
+2026-02-24T06:41:33.999143,DAZN,Facebook,follower_count,7.0
+2026-02-24T06:41:40.475662,DAZN,LinkedIn,follower_count,242024.0
+2026-02-24T06:41:55.908833,Sky Sports,Twitter,follower_count,0.0
+2026-02-24T06:42:02.530925,Sky Sports,Instagram,follower_count,0.0
+2026-02-24T06:42:08.428566,Sky Sports,TikTok,follower_count,4700000.0
+2026-02-24T06:42:15.720403,Sky Sports,YouTube,follower_count,0.0
+2026-02-24T06:42:22.509065,Sky Sports,Facebook,follower_count,17.0
+2026-02-24T06:42:28.250053,Sky Sports,LinkedIn,follower_count,0.0
+2026-02-24T06:42:43.827136,BT Sport,Twitter,follower_count,0.0
+2026-02-24T06:42:50.343268,BT Sport,Instagram,follower_count,0.0
+2026-02-24T06:42:56.263981,BT Sport,TikTok,follower_count,363.0
+2026-02-24T06:43:01.825347,BT Sport,YouTube,follower_count,0.0
+2026-02-24T06:43:08.865027,BT Sport,Facebook,follower_count,0.0
+2026-02-24T06:43:15.235569,BT Sport,LinkedIn,follower_count,0.0
+2026-02-24T06:43:38.721507,ESPN,Twitter,follower_count,0.0
+2026-02-24T06:43:47.656614,ESPN,Instagram,follower_count,0.0
+2026-02-24T06:43:53.922605,ESPN,TikTok,follower_count,56700000.0
+2026-02-24T06:44:02.735727,ESPN,YouTube,follower_count,0.0
+2026-02-24T06:44:09.985832,ESPN,Facebook,follower_count,24.0
+2026-02-24T06:44:16.073020,ESPN,LinkedIn,follower_count,872817.0
+2026-02-24T06:44:31.295722,Amazon Prime Video,Twitter,follower_count,0.0
+2026-02-24T06:44:38.472872,Amazon Prime Video,Instagram,follower_count,0.0
+2026-02-24T06:44:46.092608,Amazon Prime Video,TikTok,follower_count,24.0
+2026-02-24T06:44:52.057864,Amazon Prime Video,YouTube,follower_count,0.0
+2026-02-24T06:44:59.180103,Amazon Prime Video,Facebook,follower_count,587.0
+2026-02-24T06:45:04.938262,Amazon Prime Video,LinkedIn,follower_count,0.0
+2026-02-24T06:45:20.474951,Discovery+,Twitter,follower_count,0.0
+2026-02-24T06:45:27.181095,Discovery+,Instagram,follower_count,0.0
+2026-02-24T06:45:33.102733,Discovery+,TikTok,follower_count,0.0
+2026-02-24T06:45:38.635335,Discovery+,YouTube,follower_count,0.0
+2026-02-24T06:45:45.140108,Discovery+,Facebook,follower_count,0.0
+2026-02-24T06:45:51.151255,Discovery+,LinkedIn,follower_count,0.0
+2026-02-24T06:46:06.514966,Eurosport,Twitter,follower_count,0.0
+2026-02-24T06:46:13.081474,Eurosport,Instagram,follower_count,0.0
+2026-02-24T06:46:18.815947,Eurosport,TikTok,follower_count,2.0
+2026-02-24T06:46:24.393261,Eurosport,YouTube,follower_count,0.0
+2026-02-24T06:46:31.566744,Eurosport,Facebook,follower_count,81.0
+2026-02-24T06:46:37.576530,Eurosport,LinkedIn,follower_count,60551.0
+2026-02-24T06:46:52.947926,TNT Sports,Twitter,follower_count,0.0
+2026-02-24T06:46:59.596446,TNT Sports,Instagram,follower_count,0.0
+2026-02-24T06:47:05.002585,TNT Sports,TikTok,follower_count,1800000.0
+2026-02-24T06:47:11.737106,TNT Sports,YouTube,follower_count,0.0
+2026-02-24T06:47:18.843156,TNT Sports,Facebook,follower_count,13.0
+2026-02-24T06:47:24.663400,TNT Sports,LinkedIn,follower_count,0.0
+2026-02-24T06:47:40.974636,NOW,Twitter,follower_count,0.0
+2026-02-24T06:47:47.973182,NOW,Instagram,follower_count,0.0
+2026-02-24T06:47:54.226826,NOW,TikTok,follower_count,865200.0
+2026-02-24T06:48:00.832261,NOW,YouTube,follower_count,0.0
+2026-02-24T06:48:07.403779,NOW,Facebook,follower_count,0.0
+2026-02-24T06:48:13.205571,NOW,LinkedIn,follower_count,375.0
+2026-02-24T06:48:28.485608,Paramount+,Twitter,follower_count,0.0
+2026-02-24T06:48:34.885497,Paramount+,Instagram,follower_count,0.0
+2026-02-24T06:48:40.563444,Paramount+,TikTok,follower_count,0.0
+2026-02-24T06:48:46.059525,Paramount+,YouTube,follower_count,0.0
+2026-02-24T06:48:52.592819,Paramount+,Facebook,follower_count,0.0
+2026-02-24T06:48:58.233665,Paramount+,LinkedIn,follower_count,0.0
+2026-02-24T06:49:13.496750,Peacock,Twitter,follower_count,0.0
+2026-02-24T06:49:20.019050,Peacock,Instagram,follower_count,0.0
+2026-02-24T06:49:25.649673,Peacock,TikTok,follower_count,4900000.0
+2026-02-24T06:49:32.571777,Peacock,YouTube,follower_count,0.0
+2026-02-24T06:49:39.933654,Peacock,Facebook,follower_count,0.0
+2026-02-24T06:49:45.816335,Peacock,LinkedIn,follower_count,0.0
+2026-02-24T06:50:00.944118,FuboTV,Twitter,follower_count,0.0
+2026-02-24T06:50:07.526820,FuboTV,Instagram,follower_count,0.0
+2026-02-24T06:50:13.510353,FuboTV,TikTok,follower_count,0.0
+2026-02-24T06:50:19.040794,FuboTV,YouTube,follower_count,0.0
+2026-02-24T06:50:26.154440,FuboTV,Facebook,follower_count,315.0
+2026-02-24T06:50:32.319603,FuboTV,LinkedIn,follower_count,23478.0
+2026-02-24T06:50:47.569507,Sling TV,Twitter,follower_count,0.0
+2026-02-24T06:50:54.253150,Sling TV,Instagram,follower_count,0.0
+2026-02-24T06:50:59.839744,Sling TV,TikTok,follower_count,0.0
+2026-02-24T06:51:06.742441,Sling TV,YouTube,follower_count,0.0
+2026-02-24T06:51:13.287457,Sling TV,Facebook,follower_count,0.0
+2026-02-24T06:51:19.378776,Sling TV,LinkedIn,follower_count,21481.0
+2026-02-24T06:51:34.690004,YouTube TV,Twitter,follower_count,0.0
+2026-02-24T06:51:41.288719,YouTube TV,Instagram,follower_count,0.0
+2026-02-24T06:51:46.952265,YouTube TV,TikTok,follower_count,8.0
+2026-02-24T06:51:53.666529,YouTube TV,YouTube,follower_count,0.0
+2026-02-24T06:52:00.853318,YouTube TV,Facebook,follower_count,47.0
+2026-02-24T06:52:06.557429,YouTube TV,LinkedIn,follower_count,0.0
+2026-02-24T06:52:21.940001,Hulu + Live TV,Twitter,follower_count,0.0
+2026-02-24T06:52:28.408149,Hulu + Live TV,Instagram,follower_count,0.0
+2026-02-24T06:52:34.147184,Hulu + Live TV,TikTok,follower_count,0.0
+2026-02-24T06:52:39.641087,Hulu + Live TV,YouTube,follower_count,0.0
+2026-02-24T06:52:46.199939,Hulu + Live TV,Facebook,follower_count,0.0
+2026-02-24T06:52:51.924201,Hulu + Live TV,LinkedIn,follower_count,0.0
+2026-02-24T06:53:07.281090,DirecTV Stream,Twitter,follower_count,0.0
+2026-02-24T06:53:13.932011,DirecTV Stream,Instagram,follower_count,0.0
+2026-02-24T06:53:19.721737,DirecTV Stream,TikTok,follower_count,4.0
+2026-02-24T06:53:25.379394,DirecTV Stream,YouTube,follower_count,0.0
+2026-02-24T06:53:32.348408,DirecTV Stream,Facebook,follower_count,0.0
+2026-02-24T06:53:38.829086,DirecTV Stream,LinkedIn,follower_count,140.0

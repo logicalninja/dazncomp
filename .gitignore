@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+review_scraping_errors.log
+scraping_errors.log
+
+# Mac
+.DS_Store
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
